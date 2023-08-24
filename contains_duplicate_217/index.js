@@ -1,6 +1,7 @@
 const nums = [1, 2, 2]
 
 var containDuplicate = function (nums) {
+
 	n = nums.length
 	let otvet
 	if (nums.length !== 1) {
