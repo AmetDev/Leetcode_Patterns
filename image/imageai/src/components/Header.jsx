@@ -21,7 +21,7 @@ export const Header = () => {
             />
           </svg>
           <input
-            className="h-16 w-[1610px] rounded-full"
+            className="h-16 w-[1100px] rounded-full"
             type="text"
             placeholder="Search"
           />
